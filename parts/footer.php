@@ -1,1 +1,2 @@
-put some footer here
+</body>
+</html>
