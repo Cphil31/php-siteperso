@@ -20,11 +20,12 @@ function getContent(){
 function getUserData(){
 
 // 4. créez une fonction getUserData récupérez le contenu du fichier `data/user.json` grâce à la fonction standard 'file_get_contents' et transformez le json en un tableau PHP avec la fonction standard `json_decode` puis affichez ces informations 
-	
+
 	$fileGet=file_get_contents("../data/user.json");
 	//json_decode();
-	echo ($fileGet).PhP_EOL;
+	echo ($fileGet);
 }
+
 
 
 function getPart($name){

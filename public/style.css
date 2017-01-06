@@ -5,10 +5,14 @@
 	font-size:1rem;
 }*/
 
-body {
-	font-size:20px;
-}
+body {font-size:20px;}
+
 .home{
 	float:left;
-	margin-right:6px;
-}
+	margin-right:6px;}
+
+h1{	clear:left;}
+
+h3{clear:left;}
+
+.footer{clear:left;}
