@@ -14,3 +14,6 @@ require __DIR__ . '/../lib/functions.php';
 // l'exemple avec le header, à vous de jouer pour le reste
 getPart('header');
 
+include "../parts/header.php";
+include "../parts/menu.php";
+include "../parts/footer.php";
