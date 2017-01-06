@@ -7,8 +7,5 @@
 </head>
 <body>
 	
-	<menu>
-	<ul><a href="../pages/home.php">home</a</ul>
-		<ul><a href="pages/contact.php?">contact</a></ul>
-		<ul><a href="../bio.php">bio</a></ul>
-	</menu>
+<?php include "../parts/menu.php" ?>
+	
